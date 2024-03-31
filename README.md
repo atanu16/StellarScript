@@ -3,6 +3,10 @@
 
 "Stellar" can also connote beauty and elegance. In this interpretation, StellarScript could represent a programming language known for its clean syntax, simplicity, and ease of use. It prioritize readability and developer productivity, making it ideal for beginners or for rapid prototyping.
 
+## Authors
+
+- [@Atanu](https://www.github.com/atanu16)
+
 
 ## Features
 
@@ -59,9 +63,7 @@ le sum = a + b
 bol sum
 ```
 
-## Authors
 
-- [@Atanu](https://www.github.com/atanu16)
 
 
 
