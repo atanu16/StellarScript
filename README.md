@@ -8,6 +8,14 @@
 - [@Atanu](https://www.github.com/atanu16)
 
 
+## Installation
+To start using stellarscript, simply install it via npm:
+
+```bash
+npm i -g stellarscript
+```
+
+
 ## Features
 
 - Clean Syntax: StellarScript offers a clutter-free syntax that promotes readability and reduces cognitive load, enabling developers to focus on solving problems rather than deciphering code.
@@ -22,13 +30,6 @@
 
 StellarScript stands out with its clean syntax and intuitive constructs, bolstered by a comprehensive standard library. With easy installation via npm and cross-platform compatibility.
 
-
-## Installation
-To start using stellarscript, simply install it via npm:
-
-```bash
-npm i -g stellarscript
-```
 
 ## Usage
 
