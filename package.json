@@ -3,7 +3,7 @@
     "fs": "^0.0.1-security"
   },
   "name": "stellarscript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bin": {
     "sts": "./sts.js"
   },
