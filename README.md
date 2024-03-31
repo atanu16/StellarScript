@@ -1,7 +1,8 @@
 
 #  StellarScript 
 
-StellarScript is a programming language designed with a paramount focus on clean syntax, simplicity, and ease of use. Its core philosophy revolves around prioritizing readability and enhancing developer productivity. With an intuitive structure and straightforward conventions, StellarScript empowers beginners and seasoned developers alike to write efficient and maintainable code effortlessly. 
+"Stellar" can also connote beauty and elegance. In this interpretation, StellarScript could represent a programming language known for its clean syntax, simplicity, and ease of use. It prioritize readability and developer productivity, making it ideal for beginners or for rapid prototyping.
+
 
 ## Features
 
