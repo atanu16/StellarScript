@@ -66,7 +66,7 @@ bol sum
 ```
 
 
-![Flowchart ](https://res.cloudinary.com/dse9zzuck/image/upload/v1711987711/c1edypepprxi4slposmk.png)
+![Flowchart ](https://res.cloudinary.com/dse9zzuck/image/upload/v1711987918/pc6vivnc5xsmeiz6c719.png)
 
 
 
