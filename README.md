@@ -14,6 +14,7 @@ To start using stellarscript, simply install it via npm:
 ```bash
 npm i -g stellarscript
 ```
+![Logo ](https://res.cloudinary.com/dse9zzuck/image/upload/v1711904255/tkbt8xyxrsidxw4gdsgh.png)
 
 
 ## Features
@@ -65,6 +66,7 @@ bol sum ;
 ```
 
 
+![Flowchart ](https://res.cloudinary.com/dse9zzuck/image/upload/v1711987995/tsa4rpoalq8qwt43d79y.png)
 
 
 
