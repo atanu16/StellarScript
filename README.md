@@ -37,14 +37,14 @@ StellarScript stands out with its clean syntax and intuitive constructs, bolster
 To create a variable, use the `le` keyword followed by the variable name and its value. For example:
 
 ```funbase
-le a = 1
+le a = 1 ; 
 ```
 
 ### Printing Variables
 To print the value of a variable, use the `bol` keyword followed by the variable name. For example:
 
 ```funbase
-bol a
+bol a ;
 ```
 
 ### Execution
@@ -56,12 +56,12 @@ sts hello.sts
 
 ### Example
 ```hello.sts
-le a = 1
-le b = 2
+le a = 1 ;
+le b = 2 ;
 
-le sum = a + b
+le sum = a + b ;
 
-bol sum
+bol sum ;
 ```
 
 
