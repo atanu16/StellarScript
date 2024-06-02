@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img width="33%" src="https://res.cloudinary.com/dse9zzuck/image/upload/v1711904255/tkbt8xyxrsidxw4gdsgh.png">
+    <img width="20%" src="https://res.cloudinary.com/dse9zzuck/image/upload/v1711904255/tkbt8xyxrsidxw4gdsgh.png">
 </p>
 
 #  StellarScript 
