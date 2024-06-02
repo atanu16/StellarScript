@@ -1,4 +1,8 @@
 
+<p align="center" width="100%">
+    <img width="33%" src="https://res.cloudinary.com/dse9zzuck/image/upload/v1711904255/tkbt8xyxrsidxw4gdsgh.png">
+</p>
+
 #  StellarScript 
 
 "Stellar" can also connote beauty and elegance. In this interpretation, StellarScript could represent a programming language known for its clean syntax, simplicity, and ease of use. It prioritize readability and developer productivity, making it ideal for beginners or for rapid prototyping.
@@ -14,7 +18,7 @@ To start using stellarscript, simply install it via npm:
 ```bash
 npm i -g stellarscript
 ```
-![Logo ](https://res.cloudinary.com/dse9zzuck/image/upload/v1711904255/tkbt8xyxrsidxw4gdsgh.png)
+
 
 
 ## Features
